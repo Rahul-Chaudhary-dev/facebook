@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Images
 
-<img src="https://raw.githubusercontent.com/Rahul-Chaudhary-dev/facebook/master/assets/images/login.webp" height="30%" width="30%">
+<img src="https://raw.githubusercontent.com/Rahul-Chaudhary-dev/facebook/master/assets/images/login.jpg" height="30%" width="30%">
 
 ### Getting Started
 
